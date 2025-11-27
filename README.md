@@ -1,1 +1,1 @@
-# Repositorio test2me\n\nEste repositorio contiene archivos de prueba y configuración para el entorno de prueba.\n\nExplora los archivos para ver ejemplos de código y configuraciones.
+Este es el contenido actualizado para la rama minimain del repositorio test2me.
