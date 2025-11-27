@@ -1,2 +1,1 @@
-# test2me
-Repositorio para archivos de Terraform
+# Repositorio test2me\n\nEste repositorio contiene la configuración y los scripts necesarios para la infraestructura del proyecto.\n\nContenido principal:\n- `main.tf`: Archivo de configuración principal de Terraform.\n- `variables.tf`: Definición de variables de Terraform.\n- `outputs.tf`: Salidas de Terraform.\n- `README.md`: Documentación del repositorio.
